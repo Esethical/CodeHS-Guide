@@ -1,2 +1,2 @@
 # CodeHS-Guide
-Codes for CodeHS (Use only if needed)
+APCS Codes for CodeHS (Use as a reference to help with your coding)
